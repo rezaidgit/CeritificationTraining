@@ -1,0 +1,9 @@
+C:\Users\Sheharyar\Desktop\CeritificationTraining\CeritificationTraining\bin\Debug\CeritificationTraining.exe.config
+C:\Users\Sheharyar\Desktop\CeritificationTraining\CeritificationTraining\bin\Debug\CeritificationTraining.exe
+C:\Users\Sheharyar\Desktop\CeritificationTraining\CeritificationTraining\bin\Debug\CeritificationTraining.pdb
+C:\Users\Sheharyar\Desktop\CeritificationTraining\CeritificationTraining\obj\Debug\CeritificationTraining.csprojResolveAssemblyReference.cache
+C:\Users\Sheharyar\Desktop\CeritificationTraining\CeritificationTraining\obj\Debug\CeritificationTraining.exe
+C:\Users\Sheharyar\Desktop\CeritificationTraining\CeritificationTraining\obj\Debug\CeritificationTraining.pdb
+C:\Users\Sheharyar\Source\Repos\FirstProject\CeritificationTraining\CeritificationTraining\bin\Debug\CeritificationTraining.exe.config
+C:\Users\Sheharyar\Source\Repos\FirstProject\CeritificationTraining\CeritificationTraining\obj\Debug\CeritificationTraining.exe
+C:\Users\Sheharyar\Source\Repos\FirstProject\CeritificationTraining\CeritificationTraining\obj\Debug\CeritificationTraining.pdb

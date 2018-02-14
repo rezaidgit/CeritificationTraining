@@ -10,7 +10,7 @@ namespace CeritificationTraining
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sheharyar's Commit");
+            Console.WriteLine("Sheharyar's 2nd Commit");
         }
     }
 }
