@@ -11,6 +11,7 @@ namespace CeritificationTraining
         static void Main(string[] args)
         {
             Console.WriteLine("Sheharyar's 2nd Commit");
+            Console.WriteLine("2nd Line");
         }
     }
 }
